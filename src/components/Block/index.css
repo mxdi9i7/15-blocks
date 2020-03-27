@@ -1,0 +1,16 @@
+.block {
+  border: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  font-weight: 900;
+  font-size: 22px;
+  background-color: #999;
+  transition-duration: 0.4s;
+}
+
+.block:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
